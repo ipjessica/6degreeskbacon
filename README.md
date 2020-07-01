@@ -1,2 +1,2 @@
-# 6degreeskbacon
+# 6degrees
 
